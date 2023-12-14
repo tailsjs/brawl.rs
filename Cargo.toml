@@ -1,0 +1,8 @@
+[package]
+name = "brawl-rs"
+version = "0.1.0"
+authors = ["tailsjs <me@tailsjs.space>"]
+
+[[bin]]
+name = "main"
+test = true
